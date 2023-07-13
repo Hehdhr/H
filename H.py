@@ -1,5 +1,4 @@
 
-python
 import requests
 
 def search_unused_usernames():
